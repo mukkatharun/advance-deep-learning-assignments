@@ -1,6 +1,8 @@
-These are the video recordings of some of the samples created using the text to images models like Dall-E
+The video recording of some of the samples created using the text to images using models like Dall-E hosted by hugginface and https://www.craiyon.com/
 
 Text to Image link: https://youtu.be/5F-kdxomJ5Y 
+
+The textbox in the image shows the text input i have given to generate the image.
 
 Image 1
 <img width="832" alt="image" src="https://user-images.githubusercontent.com/15384610/187248513-c5a9aada-2ac2-4509-84c8-b4dc827e7af2.png">
