@@ -1,1 +1,1 @@
-# advance-machine-learning-assignments
+# advance-deep-learning-assignments
