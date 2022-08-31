@@ -1,4 +1,4 @@
-The video recording of some of the samples created using the text to images using models like Dall-E hosted by hugginface and https://www.craiyon.com/
+The video recording and the images below are some of the samples created using the text to images using models like Dall-E hosted by hugginface and https://www.craiyon.com/
 
 Text to Image link: https://youtu.be/5F-kdxomJ5Y 
 
