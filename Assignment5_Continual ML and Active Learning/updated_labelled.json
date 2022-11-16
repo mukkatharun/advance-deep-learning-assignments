@@ -1,0 +1,1442 @@
+[
+  {
+    "id": 24,
+    "annotations": [
+      {
+        "id": 24,
+        "completed_by": 1,
+        "result": [
+          {
+            "original_width": 100,
+            "original_height": 100,
+            "image_rotation": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "width": 98.85807504078304,
+              "height": 98.85807504078304,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Vegetables"
+              ]
+            },
+            "id": "WuyCONlyi3",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2022-11-16T04:54:17.957893Z",
+        "updated_at": "2022-11-16T04:54:20.618668Z",
+        "lead_time": 8.902000000000001,
+        "prediction": {},
+        "result_count": 0,
+        "task": 24,
+        "parent_prediction": null,
+        "parent_annotation": null
+      }
+    ],
+    "file_upload": "r_99_100.jpg",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "image": "/content/Labelled_dataset/r_99_100.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-11-16T04:46:41.934149Z",
+    "updated_at": "2022-11-16T04:54:20.640582Z",
+    "inner_id": 24,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 23,
+    "annotations": [
+      {
+        "id": 23,
+        "completed_by": 1,
+        "result": [
+          {
+            "original_width": 100,
+            "original_height": 100,
+            "image_rotation": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "width": 98.36867862969005,
+              "height": 98.69494290375204,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Vegetables"
+              ]
+            },
+            "id": "ugzkij3rfI",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2022-11-16T04:54:09.437821Z",
+        "updated_at": "2022-11-16T04:54:09.437868Z",
+        "lead_time": 9.637,
+        "prediction": {},
+        "result_count": 0,
+        "task": 23,
+        "parent_prediction": null,
+        "parent_annotation": null
+      }
+    ],
+    "file_upload": "r_98_100.jpg",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "image": "/content/Labelled_dataset/r_98_100.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-11-16T04:46:41.934102Z",
+    "updated_at": "2022-11-16T04:54:09.467702Z",
+    "inner_id": 23,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 22,
+    "annotations": [
+      {
+        "id": 22,
+        "completed_by": 1,
+        "result": [
+          {
+            "original_width": 100,
+            "original_height": 100,
+            "image_rotation": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "width": 99.02120717781403,
+              "height": 98.36867862969005,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Vegetables"
+              ]
+            },
+            "id": "_FckM_zeOh",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2022-11-16T04:53:57.971305Z",
+        "updated_at": "2022-11-16T04:53:57.971349Z",
+        "lead_time": 5.071,
+        "prediction": {},
+        "result_count": 0,
+        "task": 22,
+        "parent_prediction": null,
+        "parent_annotation": null
+      }
+    ],
+    "file_upload": "r_97_100.jpg",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "image": "/content/Labelled_dataset/r_97_100.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-11-16T04:46:41.934055Z",
+    "updated_at": "2022-11-16T04:53:57.999535Z",
+    "inner_id": 22,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 21,
+    "annotations": [
+      {
+        "id": 21,
+        "completed_by": 1,
+        "result": [
+          {
+            "original_width": 100,
+            "original_height": 100,
+            "image_rotation": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "width": 99.836867862969,
+              "height": 99.51060358890699,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Vegetables"
+              ]
+            },
+            "id": "yoCzhLGsM6",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2022-11-16T04:53:50.877097Z",
+        "updated_at": "2022-11-16T04:53:50.877151Z",
+        "lead_time": 7.084,
+        "prediction": {},
+        "result_count": 0,
+        "task": 21,
+        "parent_prediction": null,
+        "parent_annotation": null
+      }
+    ],
+    "file_upload": "r_96_100.jpg",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "image": "/content/Labelled_dataset/r_96_100.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-11-16T04:46:41.934008Z",
+    "updated_at": "2022-11-16T04:53:50.906740Z",
+    "inner_id": 21,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 20,
+    "annotations": [
+      {
+        "id": 20,
+        "completed_by": 1,
+        "result": [
+          {
+            "original_width": 100,
+            "original_height": 100,
+            "image_rotation": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "width": 98.20554649265905,
+              "height": 98.53181076672102,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Vegetables"
+              ]
+            },
+            "id": "1_UEaMTm62",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2022-11-16T04:53:40.998082Z",
+        "updated_at": "2022-11-16T04:53:40.998135Z",
+        "lead_time": 4.891,
+        "prediction": {},
+        "result_count": 0,
+        "task": 20,
+        "parent_prediction": null,
+        "parent_annotation": null
+      }
+    ],
+    "file_upload": "21_100.jpg",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "image": "/content/Labelled_dataset/21_100.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-11-16T04:46:41.933962Z",
+    "updated_at": "2022-11-16T04:53:41.025033Z",
+    "inner_id": 20,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 19,
+    "annotations": [
+      {
+        "id": 19,
+        "completed_by": 1,
+        "result": [
+          {
+            "original_width": 100,
+            "original_height": 100,
+            "image_rotation": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "width": 99.34747145187602,
+              "height": 98.69494290375204,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Vegetables"
+              ]
+            },
+            "id": "qgpIMsSM1v",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2022-11-16T04:53:33.134461Z",
+        "updated_at": "2022-11-16T04:53:33.134484Z",
+        "lead_time": 4.976,
+        "prediction": {},
+        "result_count": 0,
+        "task": 19,
+        "parent_prediction": null,
+        "parent_annotation": null
+      }
+    ],
+    "file_upload": "20_100.jpg",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "image": "/content/Labelled_dataset/20_100.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-11-16T04:46:41.933916Z",
+    "updated_at": "2022-11-16T04:53:33.155105Z",
+    "inner_id": 19,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 18,
+    "annotations": [
+      {
+        "id": 18,
+        "completed_by": 1,
+        "result": [
+          {
+            "original_width": 100,
+            "original_height": 100,
+            "image_rotation": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "width": 99.02120717781403,
+              "height": 99.34747145187602,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Vegetables"
+              ]
+            },
+            "id": "2ZHZ5IuB-Y",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2022-11-16T04:53:26.954619Z",
+        "updated_at": "2022-11-16T04:53:26.954678Z",
+        "lead_time": 6.433,
+        "prediction": {},
+        "result_count": 0,
+        "task": 18,
+        "parent_prediction": null,
+        "parent_annotation": null
+      }
+    ],
+    "file_upload": "19_100.jpg",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "image": "/content/Labelled_dataset/19_100.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-11-16T04:46:41.933870Z",
+    "updated_at": "2022-11-16T04:53:26.985646Z",
+    "inner_id": 18,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 17,
+    "annotations": [
+      {
+        "id": 17,
+        "completed_by": 1,
+        "result": [
+          {
+            "original_width": 100,
+            "original_height": 100,
+            "image_rotation": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "width": 99.34747145187602,
+              "height": 99.836867862969,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Vegetables"
+              ]
+            },
+            "id": "6VXTFw9BEN",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2022-11-16T04:53:15.402928Z",
+        "updated_at": "2022-11-16T04:53:15.402960Z",
+        "lead_time": 10.757,
+        "prediction": {},
+        "result_count": 0,
+        "task": 17,
+        "parent_prediction": null,
+        "parent_annotation": null
+      }
+    ],
+    "file_upload": "18_100.jpg",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "image": "/content/Labelled_dataset/18_100.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-11-16T04:46:41.933817Z",
+    "updated_at": "2022-11-16T04:53:15.431060Z",
+    "inner_id": 17,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 16,
+    "annotations": [
+      {
+        "id": 16,
+        "completed_by": 1,
+        "result": [
+          {
+            "original_width": 100,
+            "original_height": 100,
+            "image_rotation": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "width": 99.18433931484505,
+              "height": 98.69494290375204,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Vegetables"
+              ]
+            },
+            "id": "x5gOIpTXHt",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2022-11-16T04:53:01.263422Z",
+        "updated_at": "2022-11-16T04:53:01.263445Z",
+        "lead_time": 5.874,
+        "prediction": {},
+        "result_count": 0,
+        "task": 16,
+        "parent_prediction": null,
+        "parent_annotation": null
+      }
+    ],
+    "file_upload": "3_100.jpg",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "image": "/content/Labelled_dataset/3_100.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-11-16T04:46:41.933771Z",
+    "updated_at": "2022-11-16T04:53:01.282635Z",
+    "inner_id": 16,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 15,
+    "annotations": [
+      {
+        "id": 15,
+        "completed_by": 1,
+        "result": [
+          {
+            "original_width": 100,
+            "original_height": 100,
+            "image_rotation": 0,
+            "value": {
+              "x": 0.1631321370309951,
+              "y": 0.3262642740619902,
+              "width": 99.836867862969,
+              "height": 99.67373572593799,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Vegetables"
+              ]
+            },
+            "id": "C6v-2_pBgj",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2022-11-16T04:52:46.657244Z",
+        "updated_at": "2022-11-16T04:52:46.657278Z",
+        "lead_time": 7.932,
+        "prediction": {},
+        "result_count": 0,
+        "task": 15,
+        "parent_prediction": null,
+        "parent_annotation": null
+      }
+    ],
+    "file_upload": "2_100.jpg",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "image": "/content/Labelled_dataset/2_100.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-11-16T04:46:41.933724Z",
+    "updated_at": "2022-11-16T04:52:46.685937Z",
+    "inner_id": 15,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 14,
+    "annotations": [
+      {
+        "id": 14,
+        "completed_by": 1,
+        "result": [
+          {
+            "original_width": 100,
+            "original_height": 100,
+            "image_rotation": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "width": 99.18433931484505,
+              "height": 99.34747145187602,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Vegetables"
+              ]
+            },
+            "id": "gQYIrChtZc",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2022-11-16T04:52:37.531106Z",
+        "updated_at": "2022-11-16T04:52:37.531159Z",
+        "lead_time": 7.155,
+        "prediction": {},
+        "result_count": 0,
+        "task": 14,
+        "parent_prediction": null,
+        "parent_annotation": null
+      }
+    ],
+    "file_upload": "1_100.jpg",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "image": "/content/Labelled_dataset/1_100.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-11-16T04:46:41.933678Z",
+    "updated_at": "2022-11-16T04:52:37.561259Z",
+    "inner_id": 14,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 13,
+    "annotations": [
+      {
+        "id": 13,
+        "completed_by": 1,
+        "result": [
+          {
+            "original_width": 100,
+            "original_height": 100,
+            "image_rotation": 0,
+            "value": {
+              "x": 0.1631321370309951,
+              "y": 0.1631321370309951,
+              "width": 99.836867862969,
+              "height": 99.836867862969,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Vegetables"
+              ]
+            },
+            "id": "2ksYKoxtpZ",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2022-11-16T04:51:52.054545Z",
+        "updated_at": "2022-11-16T04:52:22.448480Z",
+        "lead_time": 27.436999999999998,
+        "prediction": {},
+        "result_count": 0,
+        "task": 13,
+        "parent_prediction": null,
+        "parent_annotation": null
+      }
+    ],
+    "file_upload": "0_100.jpg",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "image": "/content/Labelled_dataset/0_100.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-11-16T04:46:41.933633Z",
+    "updated_at": "2022-11-16T04:52:22.469489Z",
+    "inner_id": 13,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 12,
+    "annotations": [
+      {
+        "id": 12,
+        "completed_by": 1,
+        "result": [
+          {
+            "original_width": 100,
+            "original_height": 100,
+            "image_rotation": 0,
+            "value": {
+              "x": 0.1631321370309951,
+              "y": 0.6525285481239804,
+              "width": 99.836867862969,
+              "height": 99.34747145187602,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Fruits"
+              ]
+            },
+            "id": "RTKPK04dyn",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2022-11-16T04:51:43.798845Z",
+        "updated_at": "2022-11-16T04:51:43.798880Z",
+        "lead_time": 6.001,
+        "prediction": {},
+        "result_count": 0,
+        "task": 12,
+        "parent_prediction": null,
+        "parent_annotation": null
+      }
+    ],
+    "file_upload": "13_100.jpg",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "image": "/content/Labelled_dataset/13_100.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-11-16T04:46:41.933587Z",
+    "updated_at": "2022-11-16T04:51:43.823970Z",
+    "inner_id": 12,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 11,
+    "annotations": [
+      {
+        "id": 11,
+        "completed_by": 1,
+        "result": [
+          {
+            "original_width": 100,
+            "original_height": 100,
+            "image_rotation": 0,
+            "value": {
+              "x": 0.1631321370309951,
+              "y": 0.3262642740619902,
+              "width": 99.836867862969,
+              "height": 99.67373572593799,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Fruits"
+              ]
+            },
+            "id": "PZ6LqBkhXR",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2022-11-16T04:51:36.361408Z",
+        "updated_at": "2022-11-16T04:51:36.361460Z",
+        "lead_time": 5.947,
+        "prediction": {},
+        "result_count": 0,
+        "task": 11,
+        "parent_prediction": null,
+        "parent_annotation": null
+      }
+    ],
+    "file_upload": "12_100.jpg",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "image": "/content/Labelled_dataset/12_100.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-11-16T04:46:41.933541Z",
+    "updated_at": "2022-11-16T04:51:36.391039Z",
+    "inner_id": 11,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 10,
+    "annotations": [
+      {
+        "id": 10,
+        "completed_by": 1,
+        "result": [
+          {
+            "original_width": 100,
+            "original_height": 100,
+            "image_rotation": 0,
+            "value": {
+              "x": 0.6525285481239804,
+              "y": 0.4893964110929852,
+              "width": 96.5742251223491,
+              "height": 99.51060358890699,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Fruits"
+              ]
+            },
+            "id": "Xm9adRfU-E",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2022-11-16T04:51:29.232015Z",
+        "updated_at": "2022-11-16T04:51:29.232037Z",
+        "lead_time": 7.723,
+        "prediction": {},
+        "result_count": 0,
+        "task": 10,
+        "parent_prediction": null,
+        "parent_annotation": null
+      }
+    ],
+    "file_upload": "11_100.jpg",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "image": "/content/Labelled_dataset/11_100.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-11-16T04:46:41.933494Z",
+    "updated_at": "2022-11-16T04:51:29.258458Z",
+    "inner_id": 10,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 9,
+    "annotations": [
+      {
+        "id": 9,
+        "completed_by": 1,
+        "result": [
+          {
+            "original_width": 100,
+            "original_height": 100,
+            "image_rotation": 0,
+            "value": {
+              "x": 0.4893964110929852,
+              "y": 0.9787928221859704,
+              "width": 96.73735725938008,
+              "height": 99.02120717781403,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Fruits"
+              ]
+            },
+            "id": "dFaqRQoB6A",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2022-11-16T04:51:19.076476Z",
+        "updated_at": "2022-11-16T04:51:19.076516Z",
+        "lead_time": 7.248,
+        "prediction": {},
+        "result_count": 0,
+        "task": 9,
+        "parent_prediction": null,
+        "parent_annotation": null
+      }
+    ],
+    "file_upload": "10_100.jpg",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "image": "/content/Labelled_dataset/10_100.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-11-16T04:46:41.933448Z",
+    "updated_at": "2022-11-16T04:51:19.102933Z",
+    "inner_id": 9,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 8,
+    "annotations": [
+      {
+        "id": 8,
+        "completed_by": 1,
+        "result": [
+          {
+            "original_width": 100,
+            "original_height": 100,
+            "image_rotation": 0,
+            "value": {
+              "x": 0.4893964110929852,
+              "y": 0.3262642740619902,
+              "width": 99.51060358890699,
+              "height": 99.67373572593799,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Fruits"
+              ]
+            },
+            "id": "V0CCkXcoJl",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2022-11-16T04:51:10.437647Z",
+        "updated_at": "2022-11-16T04:51:10.437691Z",
+        "lead_time": 9.553,
+        "prediction": {},
+        "result_count": 0,
+        "task": 8,
+        "parent_prediction": null,
+        "parent_annotation": null
+      }
+    ],
+    "file_upload": "3_100.jpg",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "image": "/content/Labelled_dataset/3_100.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-11-16T04:46:41.933402Z",
+    "updated_at": "2022-11-16T04:51:10.460177Z",
+    "inner_id": 8,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 7,
+    "annotations": [
+      {
+        "id": 7,
+        "completed_by": 1,
+        "result": [
+          {
+            "original_width": 100,
+            "original_height": 100,
+            "image_rotation": 0,
+            "value": {
+              "x": 0,
+              "y": 0.6525285481239804,
+              "width": 100,
+              "height": 99.34747145187602,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Fruits"
+              ]
+            },
+            "id": "YgQCmyHUFQ",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2022-11-16T04:50:59.057650Z",
+        "updated_at": "2022-11-16T04:50:59.057680Z",
+        "lead_time": 8.215,
+        "prediction": {},
+        "result_count": 0,
+        "task": 7,
+        "parent_prediction": null,
+        "parent_annotation": null
+      }
+    ],
+    "file_upload": "3_100_2.jpg",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "image": "/content/Labelled_dataset/3_100_2.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-11-16T04:46:41.933339Z",
+    "updated_at": "2022-11-16T04:50:59.088128Z",
+    "inner_id": 7,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 6,
+    "annotations": [
+      {
+        "id": 6,
+        "completed_by": 1,
+        "result": [
+          {
+            "original_width": 100,
+            "original_height": 100,
+            "image_rotation": 0,
+            "value": {
+              "x": 0.4893964110929852,
+              "y": 0.6525285481239804,
+              "width": 99.51060358890699,
+              "height": 99.34747145187602,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Fruits"
+              ]
+            },
+            "id": "kRNa_uiqJc",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2022-11-16T04:50:37.096725Z",
+        "updated_at": "2022-11-16T04:50:37.096749Z",
+        "lead_time": 11.109,
+        "prediction": {},
+        "result_count": 0,
+        "task": 6,
+        "parent_prediction": null,
+        "parent_annotation": null
+      }
+    ],
+    "file_upload": "2_100.jpg",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "image": "/content/Labelled_dataset/2_100.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-11-16T04:46:41.933293Z",
+    "updated_at": "2022-11-16T04:50:37.116832Z",
+    "inner_id": 6,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 5,
+    "annotations": [
+      {
+        "id": 5,
+        "completed_by": 1,
+        "result": [
+          {
+            "original_width": 100,
+            "original_height": 100,
+            "image_rotation": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "width": 99.18433931484505,
+              "height": 98.85807504078304,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Fruits"
+              ]
+            },
+            "id": "qvS1Czb8vx",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2022-11-16T04:50:23.569073Z",
+        "updated_at": "2022-11-16T04:50:23.569101Z",
+        "lead_time": 7.276,
+        "prediction": {},
+        "result_count": 0,
+        "task": 5,
+        "parent_prediction": null,
+        "parent_annotation": null
+      }
+    ],
+    "file_upload": "2_100_2.jpg",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "image": "/content/Labelled_dataset/2_100_2.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-11-16T04:46:41.933243Z",
+    "updated_at": "2022-11-16T04:50:23.597101Z",
+    "inner_id": 5,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 4,
+    "annotations": [
+      {
+        "id": 4,
+        "completed_by": 1,
+        "result": [
+          {
+            "original_width": 100,
+            "original_height": 100,
+            "image_rotation": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "width": 99.18433931484505,
+              "height": 99.18433931484505,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Fruits"
+              ]
+            },
+            "id": "fgbVgzDD8y",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2022-11-16T04:50:14.882477Z",
+        "updated_at": "2022-11-16T04:50:14.882509Z",
+        "lead_time": 9.427,
+        "prediction": {},
+        "result_count": 0,
+        "task": 4,
+        "parent_prediction": null,
+        "parent_annotation": null
+      }
+    ],
+    "file_upload": "1_100.jpg",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "image": "/content/Labelled_dataset/1_100.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-11-16T04:46:41.933183Z",
+    "updated_at": "2022-11-16T04:50:14.907066Z",
+    "inner_id": 4,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 3,
+    "annotations": [
+      {
+        "id": 3,
+        "completed_by": 1,
+        "result": [
+          {
+            "original_width": 100,
+            "original_height": 100,
+            "image_rotation": 0,
+            "value": {
+              "x": 0.6525285481239804,
+              "y": 0.9787928221859704,
+              "width": 99.34747145187602,
+              "height": 98.69494290375204,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Fruits"
+              ]
+            },
+            "id": "2cZY7Yj0Gd",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2022-11-16T04:50:01.789580Z",
+        "updated_at": "2022-11-16T04:50:01.789619Z",
+        "lead_time": 7.878,
+        "prediction": {},
+        "result_count": 0,
+        "task": 3,
+        "parent_prediction": null,
+        "parent_annotation": null
+      }
+    ],
+    "file_upload": "1_100_2.jpg",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "image": "/content/Labelled_dataset/1_100_2.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-11-16T04:46:41.933136Z",
+    "updated_at": "2022-11-16T04:50:01.818460Z",
+    "inner_id": 3,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 2,
+    "annotations": [
+      {
+        "id": 2,
+        "completed_by": 1,
+        "result": [
+          {
+            "original_width": 100,
+            "original_height": 100,
+            "image_rotation": 0,
+            "value": {
+              "x": 0.3262642740619902,
+              "y": 1.3050570962479608,
+              "width": 97.87928221859707,
+              "height": 98.69494290375204,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Fruits"
+              ]
+            },
+            "id": "x9m0m973aP",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2022-11-16T04:49:46.566461Z",
+        "updated_at": "2022-11-16T04:49:46.566519Z",
+        "lead_time": 15.485,
+        "prediction": {},
+        "result_count": 0,
+        "task": 2,
+        "parent_prediction": null,
+        "parent_annotation": null
+      }
+    ],
+    "file_upload": "0_100.jpg",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "image": "/content/Labelled_dataset/0_100.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-11-16T04:46:41.933087Z",
+    "updated_at": "2022-11-16T04:49:46.595431Z",
+    "inner_id": 2,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  },
+  {
+    "id": 1,
+    "annotations": [
+      {
+        "id": 1,
+        "completed_by": 1,
+        "result": [
+          {
+            "original_width": 100,
+            "original_height": 100,
+            "image_rotation": 0,
+            "value": {
+              "x": 0,
+              "y": 0,
+              "width": 98.69494290375204,
+              "height": 98.36867862969005,
+              "rotation": 0,
+              "rectanglelabels": [
+                "Fruits"
+              ]
+            },
+            "id": "Tb9WkOJvB2",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2022-11-16T04:49:27.697719Z",
+        "updated_at": "2022-11-16T04:49:27.697749Z",
+        "lead_time": 37.643,
+        "prediction": {},
+        "result_count": 0,
+        "task": 1,
+        "parent_prediction": null,
+        "parent_annotation": null
+      }
+    ],
+    "file_upload": "0_100_2.jpg",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "image": "/content/Labelled_dataset/0_100_2.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-11-16T04:46:41.933015Z",
+    "updated_at": "2022-11-16T04:49:27.728070Z",
+    "inner_id": 1,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "comment_authors": []
+  }
+]
