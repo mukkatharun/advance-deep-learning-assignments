@@ -5,4 +5,6 @@
 
 [Video Explaination](https://drive.google.com/file/d/1hnZT1mAEBNYiJcHLCBo5KPlVMnAOLmtX/view?usp=share_link)
 
+[Youtube Link](https://youtu.be/qf86wxJYqQs)
+
 [Medium Article](https://medium.com/@tharunmukka1/zero-shot-image-recognition-using-relational-matching-adaptation-and-calibration-c05d5d8ac37d)
