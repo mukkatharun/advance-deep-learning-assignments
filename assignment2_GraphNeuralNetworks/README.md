@@ -2,7 +2,7 @@ Assignment 2
 
 a) graph level prediction using GCN https://colab.research.google.com/drive/1idj-fdkqXiVYQNwJVy46nFTiU48EGggR?usp=sharing
 
-The model will trainin on MUTAG dataset and tries to predict whether the molecule inhibits HIV virus replication or not
+The model will trainin on MUTAG dataset and tries to predict whether the molecule inhibits HIV virus replication or not. ref [link](https://pytorch-geometric.readthedocs.io/en/latest/notes/colabs.html)
 
 b) Node classification using GCN https://colab.research.google.com/drive/1mewn1w24fil5kkkKhA9P_i7v4Z695wOy?usp=sharing
 
