@@ -10,4 +10,5 @@ b) Node classification using GCN https://colab.research.google.com/drive/1mewn1w
 
 c) link prediction of graph using Graph AutoEncoder  https://colab.research.google.com/drive/1rI4nQqqg0ouxUNSz5E_LHx1KO0hA4ce7?usp=sharing
   
-  The model will predict the connection between 2 node attributes
+  The model will predict the connection between 2 node attributes.
+references [link1](https://www.youtube.com/watch?v=qA6U4nIK62E&ab_channel=AntonioLonga) [link2](https://pytorch-geometric.readthedocs.io/en/latest/notes/colabs.html)
